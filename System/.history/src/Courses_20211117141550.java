@@ -4,7 +4,7 @@ public class Courses {
 	int credits;
 	String section;
 	String time;
-	int roomNum;
+	int room;
 	String instructorName;
 	int numOfStudents;
 	String[] students;
@@ -12,6 +12,6 @@ public class Courses {
 	String startDate;
 	String endDate;
 
-	
+
 
 }

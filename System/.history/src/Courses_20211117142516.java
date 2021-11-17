@@ -13,5 +13,4 @@ public class Courses {
 	String endDate;
 
 	
-
 }

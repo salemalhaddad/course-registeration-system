@@ -4,14 +4,12 @@ public class Courses {
 	int credits;
 	String section;
 	String time;
-	int roomNum;
-	String instructorName;
+	int room;
+	String instructor;
 	int numOfStudents;
 	String[] students;
 	int maxStudents;
 	String startDate;
-	String endDate;
-
 	
 
 }

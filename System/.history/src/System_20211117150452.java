@@ -3,5 +3,5 @@ abstract class System {
 	int id;
 	String pass;
 
-	peo
+	
 }
